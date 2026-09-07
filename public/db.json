@@ -18511,6 +18511,18 @@
       "course": ""
     },
     {
+      "name": "anthropic-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "anthropic-2",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "apache-1",
       "type": "svg",
       "ext": ".svg",
@@ -18619,6 +18631,18 @@
       "course": ""
     },
     {
+      "name": "azure-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "azure-ai-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "backrest-1",
       "type": "svg",
       "ext": ".svg",
@@ -18632,6 +18656,18 @@
     },
     {
       "name": "baidu-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "baidu-cloud-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "bailian-1",
       "type": "svg",
       "ext": ".svg",
       "course": ""
@@ -18698,6 +18734,12 @@
     },
     {
       "name": "bililive-recorder-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "bing-1",
       "type": "svg",
       "ext": ".svg",
       "course": ""
@@ -18907,6 +18949,12 @@
       "course": ""
     },
     {
+      "name": "capcut-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "casaos-1",
       "type": "svg",
       "ext": ".svg",
@@ -18938,6 +18986,12 @@
     },
     {
       "name": "chatgpt-2",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "cherrystudio-1",
       "type": "svg",
       "ext": ".svg",
       "course": ""
@@ -18997,6 +19051,24 @@
       "course": ""
     },
     {
+      "name": "claude-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "claude-code-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "cline-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "clion-1",
       "type": "svg",
       "ext": ".svg",
@@ -19045,6 +19117,12 @@
       "course": ""
     },
     {
+      "name": "codebuddy-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "codex-docs-1",
       "type": "svg",
       "ext": ".svg",
@@ -19082,6 +19160,12 @@
     },
     {
       "name": "css-3",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "cursor-1",
       "type": "svg",
       "ext": ".svg",
       "course": ""
@@ -19142,6 +19226,12 @@
     },
     {
       "name": "deepin-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "deepmind-1",
       "type": "svg",
       "ext": ".svg",
       "course": ""
@@ -19267,6 +19357,12 @@
       "course": ""
     },
     {
+      "name": "doubao-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "dozzle-1",
       "type": "svg",
       "ext": ".svg",
@@ -19286,6 +19382,12 @@
     },
     {
       "name": "duplicati-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "edgeever-1",
       "type": "svg",
       "ext": ".svg",
       "course": ""
@@ -19471,6 +19573,12 @@
       "course": ""
     },
     {
+      "name": "gemini-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "git-1",
       "type": "svg",
       "ext": ".svg",
@@ -19519,6 +19627,12 @@
       "course": ""
     },
     {
+      "name": "go-nav-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "goland-1",
       "type": "svg",
       "ext": ".svg",
@@ -19561,6 +19675,12 @@
       "course": ""
     },
     {
+      "name": "grok-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "hadoop-1",
       "type": "svg",
       "ext": ".svg",
@@ -19580,6 +19700,18 @@
     },
     {
       "name": "hedgedoc-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "hermes-agent-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "hermes-agent-2",
       "type": "svg",
       "ext": ".svg",
       "course": ""
@@ -19693,7 +19825,25 @@
       "course": ""
     },
     {
+      "name": "huggingface-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "huggingface-2",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "huntarr-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "hunyuan-1",
       "type": "svg",
       "ext": ".svg",
       "course": ""
@@ -19819,6 +19969,12 @@
       "course": ""
     },
     {
+      "name": "jimeng-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "jmalcloud-1",
       "type": "svg",
       "ext": ".svg",
@@ -19885,7 +20041,43 @@
       "course": ""
     },
     {
+      "name": "kimi-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "kimi-2",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "kimi-3",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "kimi-4",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "kiro-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "koel-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "kolors-1",
       "type": "svg",
       "ext": ".svg",
       "course": ""
@@ -20041,6 +20233,12 @@
       "course": ""
     },
     {
+      "name": "lobehub-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "loggit-1",
       "type": "svg",
       "ext": ".svg",
@@ -20107,6 +20305,12 @@
       "course": ""
     },
     {
+      "name": "manus-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "mastodon-1",
       "type": "svg",
       "ext": ".svg",
@@ -20156,6 +20360,12 @@
     },
     {
       "name": "mcdonalds-3",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "mcp-1",
       "type": "svg",
       "ext": ".svg",
       "course": ""
@@ -20221,6 +20431,30 @@
       "course": ""
     },
     {
+      "name": "meta-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "meta-2",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "meta-ai-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "meta-gpt-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "metabase-1",
       "type": "svg",
       "ext": ".svg",
@@ -20257,6 +20491,12 @@
       "course": ""
     },
     {
+      "name": "midjourney-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "mind-wendel-1",
       "type": "svg",
       "ext": ".svg",
@@ -20275,6 +20515,12 @@
       "course": ""
     },
     {
+      "name": "minimax-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "mongotv-1",
       "type": "svg",
       "ext": ".svg",
@@ -20288,6 +20534,12 @@
     },
     {
       "name": "moodle-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "moonshot-1",
       "type": "svg",
       "ext": ".svg",
       "course": ""
@@ -20317,6 +20569,12 @@
       "course": ""
     },
     {
+      "name": "nanobanana-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "nestjs-1",
       "type": "svg",
       "ext": ".svg",
@@ -20324,6 +20582,12 @@
     },
     {
       "name": "new-api-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "newapi-1",
       "type": "svg",
       "ext": ".svg",
       "course": ""
@@ -20509,6 +20773,12 @@
       "course": ""
     },
     {
+      "name": "ollama-2",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "one-kvm-1",
       "type": "svg",
       "ext": ".svg",
@@ -20533,6 +20803,12 @@
       "course": ""
     },
     {
+      "name": "openclaw-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "openlist-1",
       "type": "svg",
       "ext": ".svg",
@@ -20540,6 +20816,12 @@
     },
     {
       "name": "opentofu-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "openwebui-1",
       "type": "svg",
       "ext": ".svg",
       "course": ""
@@ -20797,6 +21079,12 @@
       "course": ""
     },
     {
+      "name": "qingyan-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "qnap-1",
       "type": "svg",
       "ext": ".svg",
@@ -20815,6 +21103,12 @@
       "course": ""
     },
     {
+      "name": "qoder-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "qqlive-1",
       "type": "svg",
       "ext": ".svg",
@@ -20828,6 +21122,12 @@
     },
     {
       "name": "quill-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "qwen-1",
       "type": "svg",
       "ext": ".svg",
       "course": ""
@@ -21325,6 +21625,24 @@
       "course": ""
     },
     {
+      "name": "trae-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "trae-2",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "trae-3",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "typescript-1",
       "type": "svg",
       "ext": ".svg",
@@ -21589,6 +21907,12 @@
       "course": ""
     },
     {
+      "name": "windsurf-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
       "name": "wireguard-1",
       "type": "svg",
       "ext": ".svg",
@@ -21626,6 +21950,18 @@
     },
     {
       "name": "xiaomi-3",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "xiaomi-mimo-1",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "xiaomi-mimo-2",
       "type": "svg",
       "ext": ".svg",
       "course": ""
@@ -21680,6 +22016,12 @@
     },
     {
       "name": "youtube-5",
+      "type": "svg",
+      "ext": ".svg",
+      "course": ""
+    },
+    {
+      "name": "zai-1",
       "type": "svg",
       "ext": ".svg",
       "course": ""
